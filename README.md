@@ -101,6 +101,7 @@ Models that ship as research artifacts or first-party products, generally access
 - [WaveSpeedAI](https://wavespeed.ai/) — Aggregator API across Sora, Kling, Veo, Seedance, Hailuo, Wan, and others.
 - [KIE.ai](https://kie.ai/) — Aggregator API exposing Sora, Kling, Runway, Veo, and Seedance under a unified key.
 - [AI/ML API](https://aimlapi.com/) — Multi-provider API with OpenAI-compatible endpoints covering Hailuo, Kling, Veo, Runway, and others.
+- [RunAPI](https://runapi.ai/docs) — Multi-model API for video generation jobs across hosted model backends.
 - [Hugging Face Inference Providers](https://huggingface.co/inference-api) — Hosted inference for open video models.
 - [NVIDIA NIM](https://build.nvidia.com/stabilityai/stable-video-diffusion) — Containerized inference microservices including Stable Video Diffusion.
 - [Vercel AI Gateway](https://vercel.com/ai-gateway) — Unified gateway for routing and observability across model providers.
