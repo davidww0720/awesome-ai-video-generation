@@ -78,6 +78,7 @@ Tools that accept combinations of text, reference images, reference video, and a
 - [Tavus](https://www.tavus.io/) — Hyper-personalized avatar video and conversational video API for sales and product workflows.
 - [D-ID](https://www.d-id.com/) — Real-time streaming talking avatars and conversational agents.
 - [Hedra](https://www.hedra.com/) — Image-plus-audio-to-video with Character 3 model focused on facial realism.
+- [Podframes](https://github.com/Jellypod-Inc/podframes) — Open-source studio and CLI for generating two-host AI podcast videos with voices, lip-sync, and captions.
 - [Sync.so](https://sync.so/) — Lip-sync API and tooling that targets natural mouth movement on existing footage.
 - [Vozo](https://www.vozo.ai/) — Multilingual lip sync supporting 110+ languages with multi-speaker scenarios.
 
