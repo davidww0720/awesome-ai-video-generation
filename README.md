@@ -47,6 +47,7 @@ AI video generation moved from research demos to production workflows between 20
 - [Runway Image-to-Video](https://runwayml.com/) — Gen-4 image-to-video at up to 4K with motion brush and camera path controls.
 - [Kling Image-to-Video](https://klingai.com/) — Image-to-video mode with strong motion adherence and the most generous free credits among premium models.
 - [Hailuo 02](https://hailuoai.video/) — Image-to-video at native 1080p with strong physics following.
+- [ImagineClip](https://imagineclip.com/ai-image-to-video) — Browser workflow for animating images into short social clips with creative effects.
 - [Pika Frames](https://pika.art/) — Generates a 1-10 second transition video between two or more reference frames.
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) — Image-to-video with realistic motion physics.
 - [Genmo](https://www.genmo.ai/) — Hosted access to Mochi-family models with image-to-video workflow.
