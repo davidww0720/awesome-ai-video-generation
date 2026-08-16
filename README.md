@@ -38,6 +38,7 @@ AI video generation moved from research demos to production workflows between 20
 - [Adobe Firefly Video](https://firefly.adobe.com/generate/video) — Browser-based text-to-video integrated with Adobe Creative Cloud, with multi-track Firefly Video Editor and 4K HDR export.
 - [Dreamina (CapCut)](https://dreamina.capcut.com/) — ByteDance's creator-focused video generator inside CapCut, currently powered by Seedance 2.0.
 - [VEED](https://www.veed.io/) — Browser video editor with AI generation, captions, eye-contact correction, and dub tooling.
+- [videos.social](https://videos.social/?utm_source=davidww0720-awesome-ai-video-generation&utm_medium=directory&utm_campaign=listing-wave-d) — Turns blogs, PDFs, and prompts into editable faceless videos.
 - [Kapwing](https://www.kapwing.com/) — Online editor with AI script-to-video, auto-captioning, and template-based generation.
 - [InVideo AI](https://invideo.io/) — Prompt-to-video for marketing content with stock library and brand kit.
 
