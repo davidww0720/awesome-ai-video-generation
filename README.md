@@ -133,6 +133,7 @@ Models with public weights, code, or both. License terms vary, check before comm
 ## Datasets
 
 - [Panda-70M](https://snap-research.github.io/Panda-70M/) — 70M high-resolution video-text pairs with semantic coherence captions.
+- [Seedance 2.5 free-tier observations](https://videofreetier.com/data/) — 22 dated records of what each channel grants on the Seedance 2.5 free tier, covering daily credits, generation caps, clip length, resolution, watermark behaviour and API status; published as CSV, JSON and Markdown under CC BY 4.0.
 - [InternVid (OpenGVLab)](https://github.com/OpenGVLab/InternVideo) — 234M video clips with LLM-generated descriptions, totaling 4.1B caption words.
 - [WebVid-10M](https://github.com/m-bain/webvid) — 10.7M text-video pairs, 52K hours; original landing page is offline but the GitHub mirror remains active.
 - [OpenVid-1M](https://github.com/NJU-PCALab/OpenVid-1M) — 1M+ in-the-wild clips at 512x512+ resolution with detailed captions, ICLR 2025.
