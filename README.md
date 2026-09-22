@@ -71,6 +71,8 @@ Tools that accept combinations of text, reference images, reference video, and a
 - [Descript](https://www.descript.com/) — Edit video by editing the transcript, with AI eye contact, studio sound, and overdub.
 - [Fluxlabs](https://www.fluxlabs.ai/) — Generative video editing and stylization workflows.
 
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) — Source-installed TypeScript CLI and MCP toolkit for coding-agent video composition, editing, optional generation, and assembly from editable plan.json timelines.
+
 ### AI Avatars & Lip Sync
 
 - [HeyGen](https://www.heygen.com/) — AI avatar video with 175+ languages, Avatar IV motion-capture realism, and credit-based pricing.
