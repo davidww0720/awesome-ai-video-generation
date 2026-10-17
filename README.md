@@ -51,6 +51,7 @@ AI video generation moved from research demos to production workflows between 20
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) — Image-to-video with realistic motion physics.
 - [Genmo](https://www.genmo.ai/) — Hosted access to Mochi-family models with image-to-video workflow.
 - [Topview AI](https://www.topview.ai/) — Image-to-video with Product Avatar that physically demonstrates the uploaded product.
+- [Smalltown Boy AI](https://smalltownboyvideo.net/) — Trend-specific image-to-video: two photos (people or pets) become the viral Smalltown Boy scream-and-dance clip, 10 s vertical, free preview then pay per video.
 
 ### Multimodal
 
