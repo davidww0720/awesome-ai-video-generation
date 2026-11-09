@@ -27,6 +27,7 @@ AI video generation moved from research demos to production workflows between 20
 ### Text-to-Video
 
 - [Runway](https://runwayml.com/) — Gen-4 text and image to video with a professional creative suite, Aleph in-context editing, and Act-Two performance capture.
+- [Cyanvid](https://cyanvid.com/?utm_source=davidww0720-awesome-ai-video-generation&utm_medium=directory&utm_campaign=backlinks) — AI video generator from text or images; credit quotes before generate.
 - [Pika](https://pika.art/) — Text-to-video with Scene Ingredients, Pikaframes keyframe transitions, and Pikaswaps object replacement.
 - [Kling AI](https://klingai.com/) — Long-duration text and image to video model from Kuaishou, with director-style camera controls and multi-shot prompts.
 - [Hailuo AI](https://hailuoai.video/) — MiniMax video model with Hailuo 02 native 1080p output and a generous free tier.
