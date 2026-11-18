@@ -37,6 +37,7 @@ AI video generation moved from research demos to production workflows between 20
 - [Akool](https://www.akool.com/) — Text-to-video plus face swap, talking avatar, and streaming avatar for marketing teams.
 - [Adobe Firefly Video](https://firefly.adobe.com/generate/video) — Browser-based text-to-video integrated with Adobe Creative Cloud, with multi-track Firefly Video Editor and 4K HDR export.
 - [Dreamina (CapCut)](https://dreamina.capcut.com/) — ByteDance's creator-focused video generator inside CapCut, currently powered by Seedance 2.0.
+- [H3 Video Generator](https://h3minimax.com/) — Browser-based text and image to video generator built on the MiniMax Hailuo model family, with credit-based pricing and no install required.
 - [VEED](https://www.veed.io/) — Browser video editor with AI generation, captions, eye-contact correction, and dub tooling.
 - [Kapwing](https://www.kapwing.com/) — Online editor with AI script-to-video, auto-captioning, and template-based generation.
 - [InVideo AI](https://invideo.io/) — Prompt-to-video for marketing content with stock library and brand kit.
