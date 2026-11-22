@@ -70,6 +70,7 @@ Tools that accept combinations of text, reference images, reference video, and a
 - [Topaz Video AI](https://www.topazlabs.com/topaz-video) — Upscaling, frame interpolation up to 120fps, and HDR enhancement; the Astra model is tuned for AI-generated footage temporal consistency.
 - [Descript](https://www.descript.com/) — Edit video by editing the transcript, with AI eye contact, studio sound, and overdub.
 - [Fluxlabs](https://www.fluxlabs.ai/) — Generative video editing and stylization workflows.
+- [Live Face Swap](https://live-face-swap.net/) — Replaces faces in a live webcam feed or an uploaded MP4 and supports browser recording for live sessions.
 
 ### AI Avatars & Lip Sync
 
